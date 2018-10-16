@@ -1,7 +1,7 @@
 # final
 Creature Colony
 
-Creature builder will be a site for people to open to be shown randomly generated, interactive, creatures.
+Creature colony will be a site for people to open to be shown randomly generated, interactive, creatures.
 The home page will be the automatic random generation of the creature.
 The about page will help explain to the user how to make the site and it's goals
 The custom page will allow the visitor to create a monster with their own parameters.
