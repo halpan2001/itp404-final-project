@@ -10,3 +10,5 @@ The collection will display the monsters the visitor has made and will also allo
 This site will use Ember animation plugins:
 * https://www.emberobserver.com/addons/ember-css-transitions
 * https://www.emberobserver.com/addons/liquid-fire
+
+The inspiration for the site is the Chrome plugin Tabby Cat: https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=en
